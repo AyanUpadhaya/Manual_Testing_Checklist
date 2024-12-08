@@ -33,5 +33,4 @@
 ## **How to Use This Checklist**
 
 1. Review the test cases before starting your manual testing session.
-2. Tick off each test case (`[ ] -> [x]`) as you complete it.
-3. Add any additional scenarios specific to your application.
+2. Add any additional scenarios specific to your application.
